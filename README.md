@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **kousikmaity157@gmail.com**
 
-- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1bgo-NjzRJM5KIobDcJK18WPzs3y3OhI5/view?usp=sharing)
+- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/10dL1juhClI_kXOvrk77fDeDTL6kgRw9u/view?usp=sharing)
 
 ---
 
