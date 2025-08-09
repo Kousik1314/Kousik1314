@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kousik Maity</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Real Estate Website**
+- 🔭 I’m currently working on **Blinkit Data Analysis**
 
 - 📫 How to reach me: **kousikmaity157@gmail.com**
 
-- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/10dL1juhClI_kXOvrk77fDeDTL6kgRw9u/view?usp=sharing)
+- 📄 Know about my experiences: [View My Resume]([https://drive.google.com/file/d/10dL1juhClI_kXOvrk77fDeDTL6kgRw9u/view?usp=sharing](https://drive.google.com/file/d/1F8sb2gIYFocLkOzbJ6SN6ZcrOH52bQDw/view?usp=sharing))
 
 ---
 
